@@ -6,3 +6,5 @@ Programming
 - Creat Always libraries
 - Res-use code
 *- Sonarquve
+- easyAutocomplete searching technique jquery
+- http://www.awstats.org/
