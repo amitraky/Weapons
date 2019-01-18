@@ -8,3 +8,4 @@ Programming
 *- Sonarquve
 - easyAutocomplete searching technique jquery
 - http://www.awstats.org/
+- .sh file for pre installation
