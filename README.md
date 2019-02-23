@@ -10,3 +10,4 @@ Programming
 - http://www.awstats.org/
 - .sh file for pre installation
 - read website - https://grokonez.com
+-read PDF - https://goalkicker.com/
