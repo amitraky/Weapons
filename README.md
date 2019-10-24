@@ -17,3 +17,8 @@ Programming
   
 
 
+Camel case
+Snake case
+Kebab case
+Pascal case
+Upper case (with snake case)
